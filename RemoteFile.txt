@@ -1,0 +1,2 @@
+This file was created in the remote repository
+and must be pulled to the local repository
